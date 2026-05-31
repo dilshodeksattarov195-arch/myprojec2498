@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervonnect",
+        "uuid": 2385590,
+        "checksum": "p8139w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
